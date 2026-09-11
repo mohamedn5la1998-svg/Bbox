@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "updated_at": 1757560000,
+  "keys": {
+    "VIP-A3F9-K2L8": {
+      "expires_at": 1757646400,
+      "hwid": null,
+      "active": true,
+      "note": "أحمد - يوم واحد"
+    },
+    "VIP-B7D2-M9P4": {
+      "expires_at": 1758164800,
+      "hwid": "ABC123DEF456",
+      "active": true,
+      "note": "محمد - أسبوع - مربوط بجهاز"
+    },
+    "VIP-TRIAL-1H": {
+      "expires_at": 1757563600,
+      "hwid": null,
+      "active": true,
+      "note": "كود تجريبي ساعة"
+    },
+    "VIP-BANNED": {
+      "expires_at": 9999999999,
+      "hwid": null,
+      "active": false,
+      "note": "ملغي - خرب"
+    }
+  }
+}
