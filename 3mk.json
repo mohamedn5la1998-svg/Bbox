@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "updated_at": 1789000000,
+  "keys": {
+    "A7K2M": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 1" },
+    "B9P4X": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 2" },
+    "C3N8Q": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 3" },
+    "D5R7Z": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 4" },
+    "E2T9W": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 5" },
+    "F6Y3L": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 6" },
+    "G8U5H": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 7" },
+    "J4V7K": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 8" },
+    "M9X2N": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 9" },
+    "P3Z6Q": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 10" },
+    "R7B9T": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 11" },
+    "S5D2W": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 12" },
+    "U8F4Y": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 13" },
+    "V6H9L": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 14" },
+    "W2K7M": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 15" },
+    "X9N3P": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 16" },
+    "Y4Q8R": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 17" },
+    "Z7S2T": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 18" },
+    "K5U9V": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 19" },
+    "L3W6X": { "expires_at": 1789505940, "hwid": null, "active": true, "note": "المستخدم 20" }
+  }
+}
